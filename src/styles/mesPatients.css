@@ -1,0 +1,82 @@
+#mesPatients .options{
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+#mesPatients button{
+border-radius: 8px !important;
+}
+
+
+
+  #mesPatients table{
+    max-width: 98%;
+    margin: auto;
+ 
+  }
+
+th{
+    background : linear-gradient(to bottom, #252f3e 0%, #1b2330 100%);
+    color: white !important;
+    font-weight: bold;
+
+}
+
+.DrawerPatientDetails{
+  width: 800px;
+}
+
+#patientContainer{
+  height: 100%;
+  width: 100%;
+}
+
+.muiltr-14hwmls-MuiPaper-root-MuiDrawer-paper{
+  width: 800px;
+}
+#patientOptions{
+  border-radius: 0px !important;
+  position: absolute;
+  right: 0;
+  width: inherit;
+
+}
+
+#patientDetails{
+  margin-top: 45px;
+width: inherit;
+}
+
+
+#boxModal{
+  background-color: aliceblue !important;
+  border: 2px solid #000 !important;
+  width:  45%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 4rem;
+
+}
+
+#btn{
+  margin-top: 20px;
+  margin-right: 20px;
+  float: right;
+}
+
+.CollaborateurMessage{
+  width: 100%;
+   margin: 20px 0;
+   padding: 16px;
+}
+
+.medicament{
+  border-right: 1px double black;
+  height: 80vh;
+}
+
+.medicament h2,.traitement h2{
+text-decoration: underline;
+}

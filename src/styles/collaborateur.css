@@ -1,0 +1,42 @@
+.chercher{
+  margin: 15px 20px 15px 80px;
+  width: 80%;
+  margin-inline:  auto;
+
+}
+
+
+.medecin_card{
+  height: auto;
+  padding: 25px  20px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.medecin_avatar{
+ margin: 20px 0;
+}
+.medecin_infos{
+  text-align: center;
+  width: 100%;
+}
+
+.medecin_infos h6{
+  font-weight: bold;
+margin-bottom: 10px;
+}
+
+.medecin_infos p{
+font-size: 20px;
+margin-bottom: 10px;
+}
+
+.medecin_infos svg:hover{
+color: rgb(0, 132, 255);
+  }
+
+.medecin_infos h5 {
+  background-color: #1b2330;
+  color: white;
+  margin-top: 30px;
+}
